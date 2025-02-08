@@ -17,7 +17,6 @@ All the necessary API endpoints are in the environments files `environment.ts` (
 ## Contribution
 
 Create an issue with the detailed description of the improvement/issue.
-
 If you would like to help implementing some feature, you should ask the maintainers for approval so to ensure that the feature is desired in the repository and no efforts go wasted.
 
 ## Get up and running
